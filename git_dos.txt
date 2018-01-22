@@ -5,6 +5,9 @@ git status
 git diff
 git log
 git log --pretty=oneline
-
-
+git reset --hard head^
+git reset --hard head^^
+git reset --hard head~100
+git teset --hard commit_idxxx
+git reflog
 --
