@@ -4,5 +4,5 @@ git commit -m "text"
 git status
 git diff
 
-det
+dete
 --
