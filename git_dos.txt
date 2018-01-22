@@ -1,0 +1,5 @@
+git init
+git add file_name
+git commit -m "text"
+--
+git status
