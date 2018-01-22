@@ -3,6 +3,8 @@ git add file_name
 git commit -m "text"
 git status
 git diff
+git log
+git log --pretty=oneline
 
-dete
+
 --
